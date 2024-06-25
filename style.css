@@ -1,0 +1,20 @@
+*{
+    background-color:black;
+}
+h1 {
+    text-transform: uppercase;
+    
+}
+
+.photo{
+    width: 50%;
+    border: 5px solid whitesmoke;
+    
+}
+
+.poster{
+    color: whitesmoke;
+    font-family: "Libre Baskerville", serif;
+    margin-left: 30%;
+
+}
